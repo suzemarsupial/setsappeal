@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/suzemarsupial/setsappeal/issues"
   },
-  "homepage": "https://github.com/suzemarsupial/setsappeal#readme"
+  "homepage": "https://github.com/suzemarsupial/setsappeal#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
